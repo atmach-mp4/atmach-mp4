@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atmach-mp4
 - 👀 I’m interested in Movies
-- 🌱 I’m currently learning Medical Technology
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on the use of code in daily life
 - 📫 How to reach me @jovany.gamez
 
